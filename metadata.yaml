@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26294
     wikipedia: http://en.wikipedia.org/wiki/Robert_Walser_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41518#The-Battle-of-Sempach
 gutenberg_issued: '2012-11-30'
 gutenberg_type: Text
 identifiers:
